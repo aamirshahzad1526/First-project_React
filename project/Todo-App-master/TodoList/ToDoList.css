@@ -1,0 +1,130 @@
+body{
+    background-color: whitesmoke;
+}
+.container{
+    background-color: white;
+    width: 100%;
+    padding: 10px;
+}
+#left{
+    border: 2px solid rgb(238, 232, 232);
+    height: 650px;
+}
+#img{
+    float: left;
+    margin-top: 20px;
+}
+#name{
+    float: right;
+    margin-top: 25px;
+}
+#search{
+    margin-top: 20px;
+    width: 95%;
+    height: 40px;
+    border-radius: 50px;
+}
+#btn1{
+    margin-top: 20px;
+    width: 98%;
+    height: 45px;
+    text-align: left;
+    background-color: rgb(211, 204, 204);
+    outline: none;
+}
+#btn2{
+    margin-top: 5px;
+    width: 98%;
+    height: 45px;
+    text-align: left;
+    background-color: rgb(211, 204, 204);
+    outline: none;
+}
+#btn3{
+    margin-top: 5px;
+    width: 98%;
+    height: 45px;
+    text-align: left;
+    background-color: rgb(211, 204, 204);
+    outline: none;
+}
+#btn4{
+    margin-top: 5px;
+    width: 98%;
+    height: 45px;
+    text-align: left;
+    background-color: rgb(211, 204, 204);
+    outline: none;
+}
+#newlist{
+    border-top: 2px solid rgb(206, 196, 196);
+    box-shadow: 10px;
+    width: 100%;
+    padding: 10px;
+}
+a{
+    font-size: 1.2em;
+}
+#right{
+    border: 2px solid rgb(238, 232, 232);
+}
+#head{
+    border: 2px solid rgb(231, 44, 91); 
+    height: 190px;
+    width: 100%;
+    margin-left: -16px;
+    background-color: rgb(231, 44, 91); 
+    border-bottom-right-radius: 200px; 
+}
+#h1{
+    margin-top: 60px;
+    margin-left: 30px;
+    font-size: 2.5em;
+    color: white;
+}
+#p1{
+    margin-left: 30px;
+    color: white;
+}
+#check1{
+    border: 2px solid gray;
+    margin: 10px;
+    width: 100%;
+    height: 50px;
+    border-radius: 50px;
+}
+#img2{
+    float: right;
+    margin-top: -35px;
+    width: 45px;
+    height: 38px;
+    margin-right: 10px;
+    border-radius: 20px;
+    position: relative;
+}
+#h5{
+    margin-top: 7px;
+    margin-left: 55px;
+}
+#checkbox{
+    width: 30px;
+    height: 27px;
+    float: left;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+.checkbox-round {
+    width: 1.3em;
+    height: 1.3em;
+    background-color: white;
+    border-radius: 50%;
+    vertical-align: middle;
+    border: 2px solid #ddd;
+    -webkit-appearance: none;
+    outline: none;
+    cursor: pointer;
+}
+.checkbox-round:checked {
+    background-color: rgb(202, 58, 82);
+}
+  

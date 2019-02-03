@@ -1,0 +1,134 @@
+body{
+    background-color: whitesmoke;
+}
+.container{
+    background-color: white;
+    width: 100%;
+    padding: 10px;
+}
+#left{
+    border: 2px solid rgb(238, 232, 232);
+    height: 650px;
+}
+#img{
+    float: left;
+    margin-top: 20px;
+}
+#name{
+    float: right;
+    margin-top: 25px;
+    margin-right: 30px;
+}
+#p1{
+    font-size: 0.8em;
+}
+#search{
+    margin-top: 20px;
+    width: 95%;
+    height: 40px;
+    border-radius: 50px;
+    border-top: 1px solid lightgray; 
+    border-left: 1px solid lightgray;
+    box-shadow: 2px 2px 2px 0px lightgray;
+    outline: none;
+}
+#btn1{
+    margin-top: 20px;
+    width: 98%;
+    height: 45px;
+    text-align: left;
+    background-color: rgb(211, 204, 204);
+    outline: none;
+}
+#btn2{
+    margin-top: 5px;
+    width: 98%;
+    height: 45px;
+    text-align: left;
+    background-color: rgb(211, 204, 204);
+    outline: none;
+}
+#btn3{
+    margin-top: 5px;
+    width: 98%;
+    height: 45px;
+    text-align: left;
+    background-color: rgb(211, 204, 204);
+    outline: none;
+}
+#btn4{
+    margin-top: 5px;
+    width: 98%;
+    height: 45px;
+    text-align: left;
+    background-color: rgb(211, 204, 204);
+    outline: none;
+}
+#newlist{
+    border-top: 2px solid rgb(206, 196, 196);
+    box-shadow: 10px;
+    width: 100%;
+    padding: 10px;
+}
+a{
+    font-size: 1.2em;
+}
+#right{
+    border: 2px solid rgb(238, 232, 232);
+}
+#head{
+    border: 2px solid rgb(231, 44, 91); 
+    height: 190px;
+    width: 100%;
+    margin-left: -10px;
+    background-color: rgb(231, 44, 91); 
+    border-bottom-right-radius: 190px; 
+}
+#h1{
+    margin-top: 70px;
+    margin-left: 30px;
+    font-size: 2.em;
+    color: white;
+    font-style: ;
+}
+#input1{
+    margin-top: 35px;
+}
+label{
+    color: red;
+}
+#title{
+    width: 85%;
+    height: 45px;
+    border-radius: 100px;
+    border: 1px solid gray;
+    box-shadow: 2px 2px 2px 1px lightgray;
+    outline: none;
+}
+#input2{
+    margin-top: 25px;
+}
+#textarea{
+    width: 85%;
+    height: 180px;
+    border-radius: 30px;
+    border: 1px solid gray;
+    box-shadow: 2px 2px 2px 1px lightgray;
+    padding: 10px;
+    outline: none;
+}
+#btn5{
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 160px;
+    height: 46px;
+    border-radius: 50px;
+    background-color:  rgb(231, 44, 91); 
+    color: white;
+    outline: none;
+    border-color: rgb(231, 44, 91);
+}
+#btn5:hover{
+    background-color: rgb(228, 28, 78);
+    position: relative;
+}
